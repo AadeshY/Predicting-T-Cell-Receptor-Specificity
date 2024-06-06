@@ -32,11 +32,3 @@ Write code to cluster TCRs and evaluate how well they cluster based on specifici
 
 ### 6. Predictive Modelling
 Develop a model to predict antigen specificity from TCR sequences. Use any suitable supervised/unsupervised algorithm and comment on the model's performance.
-
-
-## References
-
-1. Vujovic M, Degn KF, Marin FI, Schaap-Johansen AL, Chain B, Andresen TL, Kaplinsky J, Marcatili P. T cell receptor sequence clustering and antigen specificity. Comput Struct Biotechnol J (2020) 18:2166–2173. doi:10.1016/j.csbj.2020.06.041
-2. Mayer-Blackwell. TCR meta-clonotypes for biomarker discovery with tcrdist3: quantification of public, HLA-restricted TCR biomarkers of SARS-CoV-2 infection. bioRxiv (2020) 1:75–94.
-3. Huang H, Wang C, Rubelt F, Scriba TJ, Davis MM. Analyzing the Mycobacterium tuberculosis immune response by T-cell receptor clustering with GLIPH2 and genome-wide antigen screening. Nat Biotechnol (2020) 38:1194–1202. doi:10.1038/s41587-020-0505-4
-4. Zhang H, Zhan X, Li B. GIANA allows computationally-efficient TCR clustering and multi-disease repertoire classification by isometric transformation. Nat Commun (2021) 12:1–11. doi:10.1038/s41467-021-25006-7
